@@ -11,6 +11,9 @@
                 <content url="file:///Users/spin/workspace/play-1.4.4/modules/docviewer">
             <sourceFolder url="file:///Users/spin/workspace/play-1.4.4/modules/docviewer/app" isTestSource="false" />
         </content>
+        <content url="file:///Users/spin/workspace/play-1.4.4/modules/secure">
+            <sourceFolder url="file:///Users/spin/workspace/play-1.4.4/modules/secure/app" isTestSource="false" />
+        </content>
         <content url="file:///Users/spin/workspace/play-1.4.4/modules/crud">
             <sourceFolder url="file:///Users/spin/workspace/play-1.4.4/modules/crud/app" isTestSource="false" />
         </content>
