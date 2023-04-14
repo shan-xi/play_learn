@@ -1,5 +1,7 @@
 package models;
 
+import play.data.validation.Email;
+import play.data.validation.Required;
 import play.db.jpa.Model;
 
 import javax.persistence.Entity;
@@ -8,7 +10,10 @@ import javax.persistence.Table;
 @Entity
 @Table(name = "blog_user")
 public class User extends Model {
+    @Email
+    @Required
     public String email;
+    @Required
     public String password;
     public String fullname;
 

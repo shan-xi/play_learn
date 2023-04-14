@@ -29,3 +29,7 @@ play_learn.iml
 **/lib
 **/test-result
 **/logs
+
+yabe.ipr
+yabe.iws
+
